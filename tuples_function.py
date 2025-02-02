@@ -1,0 +1,12 @@
+t1=(10,20,10,40,10)
+t2=("tanisha","jai","lucky")
+# print(max(t1),max(t2))
+# print(min(t1),min(t2))
+# print(sum(t1))
+# print(len(t1),len(t2))
+# print(id(t1),id(t2))
+# print(t1.index(10))
+# print(t1.index(10,1))
+print(t1.index(10,1,3))
+
+# print(t1.count(10))
